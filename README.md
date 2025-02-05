@@ -1,4 +1,4 @@
-👋 Olá, eu sou a Auriandra!
+👋 Olá, eu sou a Auri!
 
 Entusiasta de programação focada em Python. 
 Estou sempre em busca de aprender e aprimorar minhas habilidades. 
